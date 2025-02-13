@@ -7,7 +7,9 @@ My skills are in Python, R, SQL, Tableau, and Data Analysis. I'm currently learn
 Some of my projects:
 
 🌱 Agent-based analysis of consumer preferences in the introduction of novel sustainable cosmetics (Python + NetLogo)
+
 ⚡  Averaging predictive distributions across calibration windows for day-ahead electricity prices (Python)
+
 🚶 Analysis of crossing pedestrian paths (Python)
 
 I'm looking to extend my skills and knowledge.
