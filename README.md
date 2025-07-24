@@ -14,4 +14,4 @@ Some of my projects:
 
 I'm looking to extend my skills and knowledge.
 
-Outside of work, I love cats 🐾, practicing yoga 🧘, and reading novels 📖 — with hopes of writing my own one day.
+Outside of work, I love cats, practicing yoga, and reading books with hopes of writing my own one day.
