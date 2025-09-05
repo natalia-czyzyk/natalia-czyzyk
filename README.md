@@ -2,8 +2,7 @@
 
 My name is **Natalia Czyżyk** and I'm a **Data Analyst** specializing in **Sales and Customer Data analytics and automation**. I have a Master's in Business Intelligence and 4+ years of experience in tech.
 
-My skills are in **Python**, **R**, **SQL**, **Tableau**, and **Data Analysis**. I'm currently learning **PowerBI** and **Machine Learning**.
-
+My skills are in **Python**, **R**, **SQL**, **Tableau**, and **Data Analysis**.
 Some of my projects:
 
 🌱 Agent-based analysis of consumer preferences in the introduction of novel sustainable cosmetics (**Python** **+** **NetLogo**)
