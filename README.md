@@ -9,7 +9,7 @@ Some of my projects:
 
 ⚡  Averaging predictive distributions across calibration windows for day-ahead electricity prices (**Python**)
 
-🚶 Analysis of crossing pedestrian paths (**Python**)
+📊 User churn prediction machine learning model (for Waze company) (**Python**)
 
 I'm looking to extend my skills and knowledge.
 
