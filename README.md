@@ -11,6 +11,8 @@ Some of my projects:
 
 📊 Reading habits in the EU – data analysis & visualisation (**Tableau**)
 
+☕ Coffee consumption impact on sleep patterns and overall health analysis (**SQL**)
+
 I'm looking to extend my skills and knowledge.
 
 Outside of work, I love cats, practicing yoga, and reading books with hopes of writing my own one day.
